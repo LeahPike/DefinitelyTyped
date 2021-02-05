@@ -1204,6 +1204,7 @@ declare namespace google {
                 groupByRowLabel?: boolean;
                 rowLabelStyle?: LabelStyle;
                 showRowLabels?: boolean;
+                showBarLabels?: boolean;
                 singleColor?: string;
             }
             width?: number;
